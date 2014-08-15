@@ -6,5 +6,5 @@ public class GitTest {
 		System.out.println("Git if fun");
 		//test
 	}
-
+//change something else
 }
