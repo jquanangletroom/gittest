@@ -1,0 +1,9 @@
+package de.vogella.git.first;
+
+public class GitTest {
+
+	public static void main(String[] args) {
+		System.out.println("Git if fun");
+		System.out.println("Woohoo its working (hopefully)");
+	}//main(String[])
+} // GitTest
