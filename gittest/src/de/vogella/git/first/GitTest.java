@@ -4,7 +4,5 @@ public class GitTest {
 
 	public static void main(String[] args) {
 		System.out.println("Git if fun");
-		//test
 	}
-//change something else
 }
